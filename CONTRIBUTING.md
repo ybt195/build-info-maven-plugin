@@ -9,18 +9,18 @@ in the form of feature requests, general discussion threads or bug reports.
 
 ### Feature Requests
 
-If you have a feature request, you can create an issue on the [Github Issues](https://github.com/getfeedr/feedr-parent-pom/issues) 
+If you have a feature request, you can create an issue on the [Github Issues](https://github.com/ybt195/build-info-maven-plugin/issues) 
 page and tag it with the "feature" label.
 
 ### General Discussions
 
 General discussions and questions are more than welcomed. Feel free to create an issue on the 
-[Github Issues](https://github.com/getfeedr/feedr-parent-pom/issues) page and tag it with the
+[Github Issues](https://github.com/ybt195/build-info-maven-plugin/issues) page and tag it with the
 "discussion" label.
 
 ### Bug Reports
 
-Please report any standard bugs on the [Github Issues](https://github.com/getfeedr/feedr-parent-pom/issues) page.
+Please report any standard bugs on the [Github Issues](https://github.com/ybt195/build-info-maven-plugin/issues) page.
 For security related issues, please email the repository owner rather than filing the issue on github.
 
 ## Contributing Code
