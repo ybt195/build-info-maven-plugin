@@ -1,7 +1,7 @@
 # Build Info Maven Plugin
 
-[![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)]()
-[![Travis](https://img.shields.io/travis/ybt195/build-info-maven-plugin.svg?style=for-the-badge)]()
+[![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Travis](https://img.shields.io/travis/ybt195/build-info-maven-plugin.svg?style=for-the-badge)](https://travis-ci.org/ybt195/build-info-maven-plugin)
 
 The Build Info Maven plugin allows for generating build information that can be accessed at runtime.
 
