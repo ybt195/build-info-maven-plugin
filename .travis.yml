@@ -1,0 +1,27 @@
+language: java
+sudo: false
+dist: trusty
+
+addons:
+  apt:
+    packages:
+      - oracle-java8-installer
+
+cache:
+  directories:
+    - $HOME/.m2
+
+jdk:
+  - oraclejdk8
+
+before_install:
+  - wget https://archive.apache.org/dist/maven/maven-3/3.5.2/binaries/apache-maven-3.5.2-bin.zip
+  - unzip -qq apache-maven-3.5.2-bin.zip
+  - export M2_HOME=$PWD/apache-maven-3.5.2
+  - export PATH=$M2_HOME/bin:$PATH
+
+install: mvn -B -U install
+
+branches:
+  only:
+  - master
